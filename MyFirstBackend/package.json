@@ -1,0 +1,21 @@
+{
+  "name": "myfirstbackend",
+  "version": "1.0.0",
+  "description": "this is my first very basic backend (server)",
+  "keywords": [
+    "chaiandcode",
+    "basic",
+    "backend",
+    "server"
+  ],
+  "license": "ISC",
+  "author": "jaspreet",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
